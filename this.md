@@ -22,7 +22,6 @@
     public class ClassA
     {
         public int num = 7;
-
         public void print()
         {
             Console.WriteLine(this.num);
